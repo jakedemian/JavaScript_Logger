@@ -1,3 +1,9 @@
+/* 
+Note from future Jake:
+This is the worst code i've ever seen in my entire life.
+I'm sorry it exists
+*/
+
 /*
 	Basic JavaScript logging logic.
 
